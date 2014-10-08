@@ -26,7 +26,6 @@
    [_]
     (consume (:consumer app)
       (fn [msg]
-        (println msg)
         (om/transact! app :alerts #(conj % msg)))))
 
   (render
