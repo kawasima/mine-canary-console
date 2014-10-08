@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+body > .segment {
+    padding-top: 70px;
+}
+
+.container {
+    width: auto;
+    margin: 0% 30px 0px;
+}

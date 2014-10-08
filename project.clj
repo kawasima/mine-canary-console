@@ -6,7 +6,7 @@
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [ring "1.3.1"]
                  [org.clojure/data.fressian "0.2.0"]
-                 [net.unit8/ulon-colon "0.2.0-SNAPSHOT"]
+                 [net.unit8/ulon-colon "0.2.0"]
 
                  [compojure "1.1.9"]
                  [ring/ring-defaults "0.1.2"]
